@@ -1,7 +1,7 @@
 # vue_pwa
 run ->
-_
-npm install && 
-npm run serve-production_
+
+   ``npm install && 
+npm run serve-production``
 
 after this go offline it will work
